@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://github.com/heechankim/khan_academy-assignment-js/blob/resources/images/assignment2.png" width="350" title="assignment2">
-</p
+</p>
 
 <h2>
   <a href="https://ko.khanacademy.org/computer-programming/se2019-project-3-1933033-william-1933014-charming-kyu/4578327854940160">Assignment 3</a>
